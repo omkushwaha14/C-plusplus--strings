@@ -1,0 +1,3 @@
+C:/Users/omkus/CLionProjects/strings-check if 2 strings are anagram or not/cmake-build-debug/CMakeFiles/strings_check_if_2_strings_are_anagram_or_not.dir
+C:/Users/omkus/CLionProjects/strings-check if 2 strings are anagram or not/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/omkus/CLionProjects/strings-check if 2 strings are anagram or not/cmake-build-debug/CMakeFiles/rebuild_cache.dir

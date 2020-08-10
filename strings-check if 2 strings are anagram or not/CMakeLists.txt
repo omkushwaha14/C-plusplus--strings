@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(strings_check_if_2_strings_are_anagram_or_not)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(strings_check_if_2_strings_are_anagram_or_not main.cpp)
