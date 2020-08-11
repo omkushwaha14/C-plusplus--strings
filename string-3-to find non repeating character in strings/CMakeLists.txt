@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(string_3_to_find_non_repeating_character_in_strings)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(string_3_to_find_non_repeating_character_in_strings main.cpp)
