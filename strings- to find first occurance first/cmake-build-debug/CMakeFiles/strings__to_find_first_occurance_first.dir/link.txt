@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\strings__to_find_first_occurance_first.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\strings__to_find_first_occurance_first.dir/objects.a @CMakeFiles\strings__to_find_first_occurance_first.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\strings__to_find_first_occurance_first.dir/objects.a -Wl,--no-whole-archive  -o strings__to_find_first_occurance_first.exe -Wl,--out-implib,libstrings__to_find_first_occurance_first.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\strings__to_find_first_occurance_first.dir\linklibs.rsp
