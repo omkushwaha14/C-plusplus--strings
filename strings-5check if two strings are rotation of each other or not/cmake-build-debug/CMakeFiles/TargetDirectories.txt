@@ -1,0 +1,3 @@
+C:/Users/omkus/CLionProjects/strings-5check if two strings are rotation of each other or not/cmake-build-debug/CMakeFiles/strings_5check_if_two_strings_are_rotation_of_each_other_or_not.dir
+C:/Users/omkus/CLionProjects/strings-5check if two strings are rotation of each other or not/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/omkus/CLionProjects/strings-5check if two strings are rotation of each other or not/cmake-build-debug/CMakeFiles/rebuild_cache.dir
