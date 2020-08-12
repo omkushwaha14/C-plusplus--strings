@@ -1,0 +1,3 @@
+C:/Users/omkus/CLionProjects/strings-3-sreaching anagram in two strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/omkus/CLionProjects/strings-3-sreaching anagram in two strings/cmake-build-debug/CMakeFiles/strings_3_sreaching_anagram_in_two_strings.dir
+C:/Users/omkus/CLionProjects/strings-3-sreaching anagram in two strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir

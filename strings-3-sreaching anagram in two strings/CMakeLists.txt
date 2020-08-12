@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(strings_3_sreaching_anagram_in_two_strings)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(strings_3_sreaching_anagram_in_two_strings main.cpp)
