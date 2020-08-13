@@ -1,0 +1,3 @@
+C:/Users/omkus/CLionProjects/strings-6-pattern matching algorithms/cmake-build-debug/CMakeFiles/strings_6_pattern_matching_algorithms.dir
+C:/Users/omkus/CLionProjects/strings-6-pattern matching algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/omkus/CLionProjects/strings-6-pattern matching algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
